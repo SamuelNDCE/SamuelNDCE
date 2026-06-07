@@ -20,4 +20,4 @@ Python, TypeScript, Claude API, Obsidian, Playwright, Odoo
 
 ## Contact
 
-[perpetualtechnologies.odoo.com](https://perpetualtechnologies.odoo.com) | contact@perpetualtechnologies.co.uk
+Samuelndce@gmail.com
