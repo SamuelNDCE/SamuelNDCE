@@ -1,6 +1,6 @@
 # Samuel
 
-Builder based in Southend-on-Sea, Essex. I run [PerpetualTechnologies](https://perpetualtechnologies.co.uk) — AI automation and managed IT for small businesses.
+Builder based in Southend-on-Sea, Essex. I run [PerpetualTechnologies](https://perpetualtechnologies.co.uk) AI automation and managed IT for small businesses.
 
 ---
 
