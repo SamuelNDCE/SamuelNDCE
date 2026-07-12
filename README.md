@@ -18,7 +18,7 @@ Builder based in Southend-on-Sea, Essex. I run [PerpetualTechnologies](https://p
 
 ## Stack
 
-Python, TypeScript, Rust, Claude API/Agent SDK, Obsidian, Playwright, Shopify, Odoo
+Python, TypeScript, Rust, Claude API/Agent SDK, Obsidian, Playwright, Shopify,
 
 ---
 
