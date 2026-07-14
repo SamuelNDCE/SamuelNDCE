@@ -6,8 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SamuelNDCE-0A0D18?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/samuelndce/)
 [![Website](https://img.shields.io/badge/Website-perpetualtechnologies.co.uk-0A0D18?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://perpetualtechnologies.co.uk)
 
-![Profile Views](https://komarev.com/ghpvc/?username=SamuelNDCE&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
@@ -39,23 +37,23 @@
 
 **Also shipping**
 
-📚 **[claude-super-skill-library](https://github.com/SamuelNDCE/claude-super-skill-library)** ![Claude](https://img.shields.io/badge/-Claude-0A0D18?style=flat-square&logo=anthropic&logoColor=D97757) ![Markdown](https://img.shields.io/badge/-Markdown-0A0D18?style=flat-square&logo=markdown&logoColor=white)
+📚 **[claude-super-skill-library](https://github.com/SamuelNDCE/claude-super-skill-library)** ![Claude](https://img.shields.io/badge/Claude-0A0D18?style=flat-square&logo=anthropic&logoColor=D97757) ![Markdown](https://img.shields.io/badge/Markdown-0A0D18?style=flat-square&logo=markdown&logoColor=white)
 285 Claude Code Skills spanning software engineering, AI-engineering patterns, DevOps, and workflow automation across 13 categories, built from real day-to-day work rather than generic templates. Includes `braindump`/`superbraindump`, a prompt fixer that turns a messy idea into a clean, structured prompt.
 
-🤖 **[discord-ops-bot](https://github.com/SamuelNDCE/discord-ops-bot)** ![Node.js](https://img.shields.io/badge/-Node.js-0A0D18?style=flat-square&logo=nodedotjs&logoColor=339933) ![Discord](https://img.shields.io/badge/-Discord-0A0D18?style=flat-square&logo=discord&logoColor=5865F2) ![Shopify](https://img.shields.io/badge/-Shopify-0A0D18?style=flat-square&logo=shopify&logoColor=95BF47)
+🤖 **[discord-ops-bot](https://github.com/SamuelNDCE/discord-ops-bot)** ![Node.js](https://img.shields.io/badge/Node.js-0A0D18?style=flat-square&logo=nodedotjs&logoColor=339933) ![Discord](https://img.shields.io/badge/Discord-0A0D18?style=flat-square&logo=discord&logoColor=5865F2) ![Shopify](https://img.shields.io/badge/Shopify-0A0D18?style=flat-square&logo=shopify&logoColor=95BF47)
 A Discord ops hub for running a small business day to day. Shopify order/stock watchers, Meta ads monitoring, Netlify deploy alerts, a shared team todo list, email support bridging.
 
-🎙️ **[cortex-assistant](https://github.com/SamuelNDCE/cortex-assistant)** ![Rust](https://img.shields.io/badge/-Rust-0A0D18?style=flat-square&logo=rust&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude-0A0D18?style=flat-square&logo=anthropic&logoColor=D97757)
+🎙️ **[cortex-assistant](https://github.com/SamuelNDCE/cortex-assistant)** ![Rust](https://img.shields.io/badge/Rust-0A0D18?style=flat-square&logo=rust&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-0A0D18?style=flat-square&logo=anthropic&logoColor=D97757)
 A fully on-device voice assistant, no cloud speech APIs required. Wake-word detection, whisper.cpp for STT, Piper for TTS, Claude for reasoning.
 
-🧰 **[toolkit](https://github.com/SamuelNDCE/toolkit)** ![TypeScript](https://img.shields.io/badge/-TypeScript-0A0D18?style=flat-square&logo=typescript&logoColor=3178C6)
+🧰 **[toolkit](https://github.com/SamuelNDCE/toolkit)** ![TypeScript](https://img.shields.io/badge/TypeScript-0A0D18?style=flat-square&logo=typescript&logoColor=3178C6)
 The parent collection tying all the Claude Code tooling repos above together in one place.
 
 <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
 
 <div align="center">
 
-### 📊 GitHub Stats
+### 🔥 Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelNDCE&theme=transparent&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" width="60%" />
 
