@@ -28,7 +28,7 @@
 
 <table>
 <tr valign="top">
-<td width="40%" valign="top"><h3>🧠 <a href="https://github.com/SamuelNDCE/NeuralVault">NeuralVault</a></h3>A live, animated neural map for your notes — points at any Obsidian-style vault and renders your knowledge base as firing neurons.</td>
+<td width="40%" valign="top"><h3>🧠 <a href="https://github.com/SamuelNDCE/NeuralVault">NeuralVault</a></h3>A live, animated neural map for your notes — points at any Obsidian-style vault and renders your knowledge base as firing neurons.<br/><br/></td>
 <td valign="top">
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -39,7 +39,7 @@
 </td>
 </tr>
 <tr valign="top">
-<td width="40%" valign="top"><h3>📚 <a href="https://github.com/SamuelNDCE/claude-super-skill-library">claude-super-skill-library</a></h3>285 Claude Code Skills spanning software engineering, AI-engineering patterns, DevOps, and workflow automation across 13 categories. Includes <code>braindump</code>/<code>superbraindump</code> — a messy stream-of-consciousness idea in, a clean structured prompt out.</td>
+<td width="40%" valign="top"><h3>📚 <a href="https://github.com/SamuelNDCE/claude-super-skill-library">claude-super-skill-library</a></h3>285 Claude Code Skills spanning software engineering, AI-engineering patterns, DevOps, and workflow automation across 13 categories. Includes <code>braindump</code>/<code>superbraindump</code> — a messy stream-of-consciousness idea in, a clean structured prompt out.<br/><br/></td>
 <td valign="top">
 
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -48,7 +48,7 @@
 </td>
 </tr>
 <tr valign="top">
-<td width="40%" valign="top"><h3>🤖 <a href="https://github.com/SamuelNDCE/discord-ops-bot">discord-ops-bot</a></h3>A Discord ops hub — Shopify watchers, Meta ads monitoring, Netlify deploys, a shared team todo list, email support bridging.</td>
+<td width="40%" valign="top"><h3>🤖 <a href="https://github.com/SamuelNDCE/discord-ops-bot">discord-ops-bot</a></h3>A Discord ops hub — Shopify watchers, Meta ads monitoring, Netlify deploys, a shared team todo list, email support bridging.<br/><br/></td>
 <td valign="top">
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -58,7 +58,7 @@
 </td>
 </tr>
 <tr valign="top">
-<td width="40%" valign="top"><h3>🎙️ <a href="https://github.com/SamuelNDCE/cortex-assistant">cortex-assistant</a></h3>A fully on-device voice assistant — wake word, whisper.cpp STT, Piper TTS, Claude API reasoning.</td>
+<td width="40%" valign="top"><h3>🎙️ <a href="https://github.com/SamuelNDCE/cortex-assistant">cortex-assistant</a></h3>A fully on-device voice assistant — wake word, whisper.cpp STT, Piper TTS, Claude API reasoning.<br/><br/></td>
 <td valign="top">
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -67,7 +67,7 @@
 </td>
 </tr>
 <tr valign="top">
-<td width="40%" valign="top"><h3>🧰 <a href="https://github.com/SamuelNDCE/toolkit">toolkit</a></h3>The parent collection tying all the Claude Code tooling repos above together.</td>
+<td width="40%" valign="top"><h3>🧰 <a href="https://github.com/SamuelNDCE/toolkit">toolkit</a></h3>The parent collection tying all the Claude Code tooling repos above together.<br/><br/></td>
 <td valign="top">
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
