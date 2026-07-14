@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/banner.svg" width="100%"/>
 
 [![Email](https://img.shields.io/badge/Email-samuelndce%40gmail.com-0A0D18?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:samuelndce@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20E-0A0D18?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/samuelndce/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20NDCE-0A0D18?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/samuelndce/)
 [![Website](https://img.shields.io/badge/Website-perpetualtechnologies.co.uk-0A0D18?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://perpetualtechnologies.co.uk)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SamuelNDCE&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS)
@@ -27,9 +27,9 @@
 ### 🚀 What I'm Building
 
 <table>
-<tr>
-<td width="40%"><h4>🧠 <a href="https://github.com/SamuelNDCE/NeuralVault">NeuralVault</a></h4><br/><br/>A live, animated neural map for your notes — points at any Obsidian-style vault and renders your knowledge base as firing neurons.</td>
-<td>
+<tr valign="top">
+<td width="40%" valign="top"><h3>🧠 <a href="https://github.com/SamuelNDCE/NeuralVault">NeuralVault</a></h3><br/>A live, animated neural map for your notes — points at any Obsidian-style vault and renders your knowledge base as firing neurons.</td>
+<td valign="top">
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -38,18 +38,18 @@
 
 </td>
 </tr>
-<tr>
-<td width="40%"><h4>📚 <a href="https://github.com/SamuelNDCE/claude-super-skill-library">claude-super-skill-library</a></h4><br/><br/>285 Claude Code Skills spanning software engineering, AI-engineering patterns, DevOps, and workflow automation across 13 categories. Includes <code>braindump</code>/<code>superbraindump</code> — a messy stream-of-consciousness idea in, a clean structured prompt out.</td>
-<td>
+<tr valign="top">
+<td width="40%" valign="top"><h3>📚 <a href="https://github.com/SamuelNDCE/claude-super-skill-library">claude-super-skill-library</a></h3><br/>285 Claude Code Skills spanning software engineering, AI-engineering patterns, DevOps, and workflow automation across 13 categories. Includes <code>braindump</code>/<code>superbraindump</code> — a messy stream-of-consciousness idea in, a clean structured prompt out.</td>
+<td valign="top">
 
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 </td>
 </tr>
-<tr>
-<td width="40%"><h4>🤖 <a href="https://github.com/SamuelNDCE/discord-ops-bot">discord-ops-bot</a></h4><br/><br/>A Discord ops hub — Shopify watchers, Meta ads monitoring, Netlify deploys, a shared team todo list, email support bridging.</td>
-<td>
+<tr valign="top">
+<td width="40%" valign="top"><h3>🤖 <a href="https://github.com/SamuelNDCE/discord-ops-bot">discord-ops-bot</a></h3><br/>A Discord ops hub — Shopify watchers, Meta ads monitoring, Netlify deploys, a shared team todo list, email support bridging.</td>
+<td valign="top">
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
@@ -57,18 +57,18 @@
 
 </td>
 </tr>
-<tr>
-<td width="40%"><h4>🎙️ <a href="https://github.com/SamuelNDCE/cortex-assistant">cortex-assistant</a></h4><br/><br/>A fully on-device voice assistant — wake word, whisper.cpp STT, Piper TTS, Claude API reasoning.</td>
-<td>
+<tr valign="top">
+<td width="40%" valign="top"><h3>🎙️ <a href="https://github.com/SamuelNDCE/cortex-assistant">cortex-assistant</a></h3><br/>A fully on-device voice assistant — wake word, whisper.cpp STT, Piper TTS, Claude API reasoning.</td>
+<td valign="top">
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </td>
 </tr>
-<tr>
-<td width="40%"><h4>🧰 <a href="https://github.com/SamuelNDCE/toolkit">toolkit</a></h4><br/><br/>The parent collection tying all the Claude Code tooling repos above together.</td>
-<td>
+<tr valign="top">
+<td width="40%" valign="top"><h3>🧰 <a href="https://github.com/SamuelNDCE/toolkit">toolkit</a></h3><br/>The parent collection tying all the Claude Code tooling repos above together.</td>
+<td valign="top">
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
