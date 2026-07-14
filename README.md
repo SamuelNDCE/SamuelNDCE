@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0D18,100:22D3EE&height=200&section=header&text=Samuel%20E&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Founder%20%C2%B7%20AI%20Engineer%20%C2%B7%20Builder&descAlignY=60&descSize=18&descColor=FFFFFF" width="100%"/>
+<img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/banner.svg" width="100%"/>
 
 <a href="https://github.com/SamuelNDCE">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Founder+of+Perpetual+Technologies;AI+%2B+Automation+Engineer;Building+NeuralVault;Shipping+Claude+Code+tooling+daily" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Founder+of+Perpetual+Technologies;AI+%2B+Automation+Engineer;Building+NeuralVault;Shipping+Claude+Code+tooling+daily" alt="Typing SVG" />
 </a>
 
 [![Email](https://img.shields.io/badge/Email-samuelndce%40gmail.com-0A0D18?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:samuelndce@gmail.com)
@@ -48,11 +48,21 @@ Founder of [Perpetual Technologies](https://perpetualtechnologies.co.uk), buildi
 
 <div align="center">
 
-### 🛠️ Stack
+### 🛠️ Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,python,rust,svelte,tauri,discord,shopify&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,python,rust,svelte,tauri&theme=dark)](https://skillicons.dev)
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+### ⚙️ Platforms
+
+![Shopify](https://img.shields.io/badge/Shopify-0A0D18?style=for-the-badge&logo=shopify&logoColor=95BF47)
+![Discord](https://img.shields.io/badge/Discord-0A0D18?style=for-the-badge&logo=discord&logoColor=5865F2)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0D18?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+
+### 🧠 AI & Tooling
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-0A0D18?style=for-the-badge&logo=anthropic&logoColor=D97757)
+![Git](https://img.shields.io/badge/Git-0A0D18?style=for-the-badge&logo=git&logoColor=F05032)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-0A0D18?style=for-the-badge&logo=ffmpeg&logoColor=007808)
 
 </div>
 
