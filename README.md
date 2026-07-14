@@ -16,18 +16,27 @@
 
 ---
 
-Founder of [Perpetual Technologies](https://perpetualtechnologies.co.uk), building AI automation and managed IT for businesses still running on spreadsheets and guesswork. I write software because I love the craft as much as the company — building the tools today that shape what's possible next.
+<div align="center">
+
+### 🏢 Founder, [Perpetual Technologies](https://perpetualtechnologies.co.uk)
+
+**AI automation & managed IT for businesses still doing things the slow way.**
+
+*Outside of that — an engineer who builds because he loves it, not just because it pays.*
+
+</div>
 
 ---
 
-### 🚀 What I'm building
+### 🚀 What I'm Building
 
-**[NeuralVault](https://github.com/SamuelNDCE/NeuralVault)** — a live, animated neural map for your notes. Points at any Obsidian-style vault and renders your knowledge base as firing neurons. Pure Python stdlib + one HTML file, no dependencies.
+**🧠 [NeuralVault](https://github.com/SamuelNDCE/NeuralVault)** — *a live, animated neural map for your notes*
+Points at any Obsidian-style vault and renders your knowledge base as firing neurons. Pure Python stdlib, one HTML file, zero dependencies.
 
-**[toolkit](https://github.com/SamuelNDCE/toolkit)** — Claude Code tooling I use daily, published as separate repos:
-- [claude-super-skill-library](https://github.com/SamuelNDCE/claude-super-skill-library) — 285 Claude Code Skills spanning software engineering, AI-engineering patterns, DevOps, and workflow automation across 13 categories. Includes `braindump`/`superbraindump` — turns a messy stream-of-consciousness idea into a clean, structured prompt.
-- [discord-ops-bot](https://github.com/SamuelNDCE/discord-ops-bot) — a Discord ops hub: Shopify watchers, Meta ads monitoring, Netlify deploys, a shared team todo list, email support bridging.
-- [cortex-assistant](https://github.com/SamuelNDCE/cortex-assistant) — a fully on-device voice assistant in Rust: wake word, whisper.cpp STT, Piper TTS, Claude API reasoning.
+**🧰 [toolkit](https://github.com/SamuelNDCE/toolkit)** — *Claude Code tooling I use daily, published as standalone repos*
+- 📚 **[claude-super-skill-library](https://github.com/SamuelNDCE/claude-super-skill-library)** — 285 Claude Code Skills spanning software engineering, AI-engineering patterns, DevOps, and workflow automation across 13 categories. Includes `braindump`/`superbraindump` — turns a messy stream-of-consciousness idea into a clean, structured prompt.
+- 🤖 **[discord-ops-bot](https://github.com/SamuelNDCE/discord-ops-bot)** — a Discord ops hub: Shopify watchers, Meta ads monitoring, Netlify deploys, a shared team todo list, email support bridging.
+- 🎙️ **[cortex-assistant](https://github.com/SamuelNDCE/cortex-assistant)** — a fully on-device voice assistant in Rust: wake word, whisper.cpp STT, Piper TTS, Claude API reasoning.
 
 ---
 
