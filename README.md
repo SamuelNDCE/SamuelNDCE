@@ -12,7 +12,6 @@ Builder based in Southend-on-Sea, Essex. I run [PerpetualTechnologies](https://p
 - [claude-super-skill-library](https://github.com/SamuelNDCE/claude-super-skill-library) — 285 Claude Code Skills covering software engineering, AI-engineering patterns, DevOps, and workflow automation, organized into 13 category folders. Featuring `braindump`/`superbraindump`, a prompt fixer: dump a messy stream-of-consciousness idea, get back a clean, structured prompt, no prompt engineering required.
 - [discord-ops-bot](https://github.com/SamuelNDCE/discord-ops-bot) — a Discord ops-hub bot: Shopify watchers, Meta ads monitoring/auto-posting, Netlify deploys, a shared team todo list, email support bridging.
 - [cortex-assistant](https://github.com/SamuelNDCE/cortex-assistant) — a fully on-device voice-assistant engine in Rust: wake word, whisper.cpp STT, Piper TTS, Claude API reasoning.
-- [nv-claude-hooks](https://github.com/SamuelNDCE/nv-claude-hooks) — Claude Code hooks that wire NeuralVault into every session.
 
 ---
 
