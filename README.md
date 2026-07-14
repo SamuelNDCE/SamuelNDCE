@@ -28,6 +28,8 @@
 
 **⭐ Flagship**
 
+<img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/status.svg" height="32"/>
+
 > ### 🧠 [NeuralVault](https://github.com/SamuelNDCE/NeuralVault)
 >
 > A personal knowledge engine. Point it at any Obsidian-style vault of notes and it renders your entire knowledge base as a live, animated neural map: notes become neurons, links become synapses, and the graph fires and pulses as you write. I built it because static note-taking apps hide the connections between ideas, they just store text. NeuralVault makes those connections visible and explorable in real time. It's aimed at consultancies, research teams, agencies, and any knowledge-heavy business sitting on years of notes and docs that nobody can actually navigate.
@@ -67,7 +69,7 @@
 
 ### 🛠️ Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,python,rust,svelte,tauri,vite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,python,cpp,c,rust,svelte,tauri,vite&theme=dark)](https://skillicons.dev)
 
 ### ⚙️ Platforms
 
