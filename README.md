@@ -26,6 +26,8 @@
 
 **⭐ Flagship**
 
+<img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/wib-neural.svg" height="36"/>
+
 > ### 🧠 [NeuralVault](https://github.com/SamuelNDCE/NeuralVault)
 >
 > A personal knowledge engine. Point it at any Obsidian-style vault of notes and it renders your entire knowledge base as a live, animated neural map: notes become neurons, links become synapses, and the graph fires and pulses as you write. I built it because static note-taking apps hide the connections between ideas, they just store text. NeuralVault makes those connections visible and explorable in real time. It's aimed at consultancies, research teams, agencies, and any knowledge-heavy business sitting on years of notes and docs that nobody can actually navigate.
@@ -37,16 +39,16 @@
 
 **Also shipping**
 
-📚 **[claude-super-skill-library](https://github.com/SamuelNDCE/claude-super-skill-library)** ![Claude](https://img.shields.io/badge/Claude-0A0D18?style=flat-square&logo=anthropic&logoColor=D97757) ![Markdown](https://img.shields.io/badge/Markdown-0A0D18?style=flat-square&logo=markdown&logoColor=white)
+📚 **[claude-super-skill-library](https://github.com/SamuelNDCE/claude-super-skill-library)** ![Claude](https://img.shields.io/badge/Claude-0A0D18?style=flat-square&logo=anthropic&logoColor=D97757) ![Markdown](https://img.shields.io/badge/Markdown-0A0D18?style=flat-square&logo=markdown&logoColor=white) <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/wib-typing.svg" height="20"/>
 285 Claude Code Skills spanning software engineering, AI-engineering patterns, DevOps, and workflow automation across 13 categories, built from real day-to-day work rather than generic templates. Includes `braindump`/`superbraindump`, a prompt fixer that turns a messy idea into a clean, structured prompt.
 
-🤖 **[discord-ops-bot](https://github.com/SamuelNDCE/discord-ops-bot)** ![Node.js](https://img.shields.io/badge/Node.js-0A0D18?style=flat-square&logo=nodedotjs&logoColor=339933) ![Discord](https://img.shields.io/badge/Discord-0A0D18?style=flat-square&logo=discord&logoColor=5865F2) ![Shopify](https://img.shields.io/badge/Shopify-0A0D18?style=flat-square&logo=shopify&logoColor=95BF47)
+🤖 **[discord-ops-bot](https://github.com/SamuelNDCE/discord-ops-bot)** ![Node.js](https://img.shields.io/badge/Node.js-0A0D18?style=flat-square&logo=nodedotjs&logoColor=339933) ![Discord](https://img.shields.io/badge/Discord-0A0D18?style=flat-square&logo=discord&logoColor=5865F2) ![Shopify](https://img.shields.io/badge/Shopify-0A0D18?style=flat-square&logo=shopify&logoColor=95BF47) <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/wib-pulse-dot.svg" height="20"/>
 A Discord ops hub for running a small business day to day. Shopify order/stock watchers, Meta ads monitoring, Netlify deploy alerts, a shared team todo list, email support bridging.
 
-🎙️ **[cortex-assistant](https://github.com/SamuelNDCE/cortex-assistant)** ![Rust](https://img.shields.io/badge/Rust-0A0D18?style=flat-square&logo=rust&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-0A0D18?style=flat-square&logo=anthropic&logoColor=D97757)
+🎙️ **[cortex-assistant](https://github.com/SamuelNDCE/cortex-assistant)** ![Rust](https://img.shields.io/badge/Rust-0A0D18?style=flat-square&logo=rust&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-0A0D18?style=flat-square&logo=anthropic&logoColor=D97757) <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/wib-waveform.svg" height="20"/>
 A fully on-device voice assistant, no cloud speech APIs required. Wake-word detection, whisper.cpp for STT, Piper for TTS, Claude for reasoning.
 
-🧰 **[toolkit](https://github.com/SamuelNDCE/toolkit)** ![TypeScript](https://img.shields.io/badge/TypeScript-0A0D18?style=flat-square&logo=typescript&logoColor=3178C6)
+🧰 **[toolkit](https://github.com/SamuelNDCE/toolkit)** ![TypeScript](https://img.shields.io/badge/TypeScript-0A0D18?style=flat-square&logo=typescript&logoColor=3178C6) <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/wib-gear.svg" height="20"/>
 The parent collection tying all the Claude Code tooling repos above together in one place.
 
 <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>

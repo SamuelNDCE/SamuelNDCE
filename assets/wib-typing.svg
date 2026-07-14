@@ -1,0 +1,11 @@
+<svg width="56" height="32" viewBox="0 0 56 32" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .d { animation: bounce 1.2s ease-in-out infinite; }
+    @keyframes bounce { 0%,60%,100% { transform: translateY(0); opacity: 0.4; } 30% { transform: translateY(-6px); opacity: 1; } }
+  </style>
+  <g fill="#22D3EE">
+    <circle class="d" cx="12" cy="16" r="4" style="animation-delay:0s"/>
+    <circle class="d" cx="28" cy="16" r="4" style="animation-delay:0.2s"/>
+    <circle class="d" cx="44" cy="16" r="4" style="animation-delay:0.4s"/>
+  </g>
+</svg>
