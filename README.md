@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/banner.svg" width="100%"/>
 
 [![Email](https://img.shields.io/badge/Email-samuelndce%40gmail.com-0A0D18?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:samuelndce@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20NDCE-0A0D18?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/samuelndce/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SamuelNDCE-0A0D18?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/samuelndce/)
 [![Website](https://img.shields.io/badge/Website-perpetualtechnologies.co.uk-0A0D18?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://perpetualtechnologies.co.uk)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SamuelNDCE&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS)
@@ -26,55 +26,45 @@
 
 ### 🚀 What I'm Building
 
-<table>
-<tr valign="top">
-<td width="40%" valign="top"><h3>🧠 <a href="https://github.com/SamuelNDCE/NeuralVault">NeuralVault</a></h3>A live, animated neural map for your notes — points at any Obsidian-style vault and renders your knowledge base as firing neurons.<br/><br/></td>
-<td valign="top">
+### 🧠 [NeuralVault](https://github.com/SamuelNDCE/NeuralVault)
+A live, animated neural map for your notes — points at any Obsidian-style vault and renders your knowledge base as firing neurons.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
 
-</td>
-</tr>
-<tr valign="top">
-<td width="40%" valign="top"><h3>📚 <a href="https://github.com/SamuelNDCE/claude-super-skill-library">claude-super-skill-library</a></h3>285 Claude Code Skills spanning software engineering, AI-engineering patterns, DevOps, and workflow automation across 13 categories. Includes <code>braindump</code>/<code>superbraindump</code> — a messy stream-of-consciousness idea in, a clean structured prompt out.<br/><br/></td>
-<td valign="top">
+<br/>
+
+### 📚 [claude-super-skill-library](https://github.com/SamuelNDCE/claude-super-skill-library)
+285 Claude Code Skills spanning software engineering, AI-engineering patterns, DevOps, and workflow automation across 13 categories. Includes `braindump`/`superbraindump` — a messy stream-of-consciousness idea in, a clean structured prompt out.
 
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-</td>
-</tr>
-<tr valign="top">
-<td width="40%" valign="top"><h3>🤖 <a href="https://github.com/SamuelNDCE/discord-ops-bot">discord-ops-bot</a></h3>A Discord ops hub — Shopify watchers, Meta ads monitoring, Netlify deploys, a shared team todo list, email support bridging.<br/><br/></td>
-<td valign="top">
+<br/>
+
+### 🤖 [discord-ops-bot](https://github.com/SamuelNDCE/discord-ops-bot)
+A Discord ops hub — Shopify watchers, Meta ads monitoring, Netlify deploys, a shared team todo list, email support bridging.
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Shopify](https://img.shields.io/badge/-Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
 
-</td>
-</tr>
-<tr valign="top">
-<td width="40%" valign="top"><h3>🎙️ <a href="https://github.com/SamuelNDCE/cortex-assistant">cortex-assistant</a></h3>A fully on-device voice assistant — wake word, whisper.cpp STT, Piper TTS, Claude API reasoning.<br/><br/></td>
-<td valign="top">
+<br/>
+
+### 🎙️ [cortex-assistant](https://github.com/SamuelNDCE/cortex-assistant)
+A fully on-device voice assistant — wake word, whisper.cpp STT, Piper TTS, Claude API reasoning.
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
-</td>
-</tr>
-<tr valign="top">
-<td width="40%" valign="top"><h3>🧰 <a href="https://github.com/SamuelNDCE/toolkit">toolkit</a></h3>The parent collection tying all the Claude Code tooling repos above together.<br/><br/></td>
-<td valign="top">
+<br/>
+
+### 🧰 [toolkit](https://github.com/SamuelNDCE/toolkit)
+The parent collection tying all the Claude Code tooling repos above together.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
 

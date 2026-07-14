@@ -2,25 +2,16 @@
   <defs>
     <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#0a0d18" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.9"/>
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.8"/>
       <stop offset="100%" stop-color="#0a0d18" stop-opacity="0"/>
     </linearGradient>
-    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="2.8" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
   <style>
     .title {
       font-family: 'Consolas','SFMono-Regular','Courier New',monospace;
       font-weight: 700; letter-spacing: 8px; fill: #22D3EE;
-      filter: url(#glow); animation: breathe 4s ease-in-out infinite;
     }
-    @keyframes breathe { 0%,100% { opacity: 0.88; } 50% { opacity: 1; } }
     .subtitle {
       font-family: 'Consolas','SFMono-Regular','Courier New',monospace;
       letter-spacing: 4px; fill: #7C3AED; opacity: 0.85;
@@ -29,7 +20,7 @@
 
   <rect width="1200" height="150" fill="#0A0D18"/>
 
-  <text x="600" y="78" text-anchor="middle" class="title" font-size="68">SAMUEL NDCE</text>
+  <text x="600" y="78" text-anchor="middle" class="title" font-size="68">SAMUELNDCE</text>
   <text x="600" y="112" text-anchor="middle" class="subtitle" font-size="18">ENTREPRENEUR · AGENTIC ENGINEER · DEVELOPER</text>
 
   <rect x="260" y="128" width="680" height="1" fill="url(#line)"/>
