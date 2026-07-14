@@ -30,13 +30,55 @@
 
 ### 🚀 What I'm Building
 
-**🧠 [NeuralVault](https://github.com/SamuelNDCE/NeuralVault)** — *a live, animated neural map for your notes*
-Points at any Obsidian-style vault and renders your knowledge base as firing neurons. Pure Python stdlib, one HTML file, zero dependencies.
+<table>
+<tr>
+<td width="40%">🧠 <b><a href="https://github.com/SamuelNDCE/NeuralVault">NeuralVault</a></b><br/><sub>A live, animated neural map for your notes — points at any Obsidian-style vault and renders your knowledge base as firing neurons.</sub></td>
+<td>
 
-**🧰 [toolkit](https://github.com/SamuelNDCE/toolkit)** — *Claude Code tooling I use daily, published as standalone repos*
-- 📚 **[claude-super-skill-library](https://github.com/SamuelNDCE/claude-super-skill-library)** — 285 Claude Code Skills spanning software engineering, AI-engineering patterns, DevOps, and workflow automation across 13 categories. Includes `braindump`/`superbraindump` — turns a messy stream-of-consciousness idea into a clean, structured prompt.
-- 🤖 **[discord-ops-bot](https://github.com/SamuelNDCE/discord-ops-bot)** — a Discord ops hub: Shopify watchers, Meta ads monitoring, Netlify deploys, a shared team todo list, email support bridging.
-- 🎙️ **[cortex-assistant](https://github.com/SamuelNDCE/cortex-assistant)** — a fully on-device voice assistant in Rust: wake word, whisper.cpp STT, Piper TTS, Claude API reasoning.
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+
+</td>
+</tr>
+<tr>
+<td width="40%">📚 <b><a href="https://github.com/SamuelNDCE/claude-super-skill-library">claude-super-skill-library</a></b><br/><sub>285 Claude Code Skills spanning software engineering, AI-engineering patterns, DevOps, and workflow automation across 13 categories. Includes <code>braindump</code>/<code>superbraindump</code> — a messy stream-of-consciousness idea in, a clean structured prompt out.</sub></td>
+<td>
+
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="40%">🤖 <b><a href="https://github.com/SamuelNDCE/discord-ops-bot">discord-ops-bot</a></b><br/><sub>A Discord ops hub — Shopify watchers, Meta ads monitoring, Netlify deploys, a shared team todo list, email support bridging.</sub></td>
+<td>
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify-95BF47?style=flat-square&logo=shopify&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="40%">🎙️ <b><a href="https://github.com/SamuelNDCE/cortex-assistant">cortex-assistant</a></b><br/><sub>A fully on-device voice assistant — wake word, whisper.cpp STT, Piper TTS, Claude API reasoning.</sub></td>
+<td>
+
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="40%">🧰 <b><a href="https://github.com/SamuelNDCE/toolkit">toolkit</a></b><br/><sub>The parent collection tying all the Claude Code tooling repos above together.</sub></td>
+<td>
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -59,20 +101,24 @@ Points at any Obsidian-style vault and renders your knowledge base as firing neu
 
 ### 🛠️ Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,python,rust,svelte,tauri&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,python,rust,svelte,tauri,vite&theme=dark)](https://skillicons.dev)
 
 ### ⚙️ Platforms
 
 ![Shopify](https://img.shields.io/badge/Shopify-0A0D18?style=for-the-badge&logo=shopify&logoColor=95BF47)
 ![Discord](https://img.shields.io/badge/Discord-0A0D18?style=for-the-badge&logo=discord&logoColor=5865F2)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0D18?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Vercel](https://img.shields.io/badge/Vercel-0A0D18?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0A0D18?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Obsidian](https://img.shields.io/badge/Obsidian-0A0D18?style=for-the-badge&logo=obsidian&logoColor=8B5CF6)
 
 ### 🧠 AI & Tooling
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-0A0D18?style=for-the-badge&logo=anthropic&logoColor=D97757)
 ![Git](https://img.shields.io/badge/Git-0A0D18?style=for-the-badge&logo=git&logoColor=F05032)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-0A0D18?style=for-the-badge&logo=ffmpeg&logoColor=007808)
+![Playwright](https://img.shields.io/badge/Playwright-0A0D18?style=for-the-badge&logo=playwright&logoColor=2EAD33)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:0A0D18&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0D18,50:22D3EE,100:7C3AED&height=4" width="100%"/>

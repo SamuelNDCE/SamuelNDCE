@@ -1,18 +1,16 @@
-<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="220" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="160" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#05060c"/>
       <stop offset="100%" stop-color="#0a0d18"/>
     </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0a0d18" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0a0d18" stop-opacity="0"/>
+    </linearGradient>
     <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <filter id="glowSoft" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="1.4" result="blur"/>
+      <feGaussianBlur stdDeviation="2.6" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -21,52 +19,21 @@
   </defs>
 
   <style>
-    .node { animation: pulse 3.4s ease-in-out infinite; }
-    @keyframes pulse { 0%,100% { opacity: 0.3; } 50% { opacity: 1; } }
-    .link { stroke-width: 1; opacity: 0.18; }
     .title {
       font-family: 'Consolas','SFMono-Regular','Courier New',monospace;
       font-weight: 700; letter-spacing: 7px; fill: #22D3EE;
-      filter: url(#glow); animation: breathe 3.6s ease-in-out infinite;
+      filter: url(#glow); animation: breathe 4s ease-in-out infinite;
     }
     @keyframes breathe { 0%,100% { opacity: 0.88; } 50% { opacity: 1; } }
     .subtitle {
       font-family: 'Consolas','SFMono-Regular','Courier New',monospace;
-      letter-spacing: 5px; fill: #7C3AED; opacity: 0.9;
+      letter-spacing: 5px; fill: #7C3AED; opacity: 0.85;
     }
   </style>
 
-  <rect width="1200" height="220" fill="url(#bg)"/>
+  <rect width="1200" height="160" fill="url(#bg)"/>
+  <rect x="300" y="118" width="600" height="1" fill="url(#line)"/>
 
-  <!-- neural mesh -->
-  <g class="link" stroke="#22D3EE">
-    <line x1="60" y1="40" x2="140" y2="80"/>
-    <line x1="140" y1="80" x2="90" y2="140"/>
-    <line x1="140" y1="80" x2="200" y2="50"/>
-    <line x1="200" y1="50" x2="250" y2="120"/>
-    <line x1="90" y1="140" x2="170" y2="180"/>
-    <line x1="1000" y1="40" x2="1080" y2="80"/>
-    <line x1="1080" y1="80" x2="1030" y2="140"/>
-    <line x1="1080" y1="80" x2="1140" y2="50"/>
-    <line x1="1140" y1="50" x2="1150" y2="120"/>
-    <line x1="1030" y1="140" x2="1060" y2="180"/>
-  </g>
-  <g class="node" fill="#22D3EE">
-    <circle cx="60" cy="40" r="2.4"/>
-    <circle cx="140" cy="80" r="2.8"/>
-    <circle cx="90" cy="140" r="2.4"/>
-    <circle cx="200" cy="50" r="2.2"/>
-    <circle cx="250" cy="120" r="2.4"/>
-    <circle cx="170" cy="180" r="2.2"/>
-    <circle cx="1000" cy="40" r="2.4"/>
-    <circle cx="1080" cy="80" r="2.8"/>
-    <circle cx="1030" cy="140" r="2.4"/>
-    <circle cx="1140" cy="50" r="2.2"/>
-    <circle cx="1150" cy="120" r="2.4"/>
-    <circle cx="1060" cy="180" r="2.2"/>
-  </g>
-
-  <!-- title -->
-  <text x="600" y="112" text-anchor="middle" class="title" font-size="46">SAMUELNDCE</text>
-  <text x="600" y="150" text-anchor="middle" class="subtitle" font-size="15" filter="url(#glowSoft)">FOUNDER · AI ENGINEER · BUILDER</text>
+  <text x="600" y="78" text-anchor="middle" class="title" font-size="42">SAMUELNDCE</text>
+  <text x="600" y="108" text-anchor="middle" class="subtitle" font-size="14">FOUNDER · AI ENGINEER · BUILDER</text>
 </svg>
