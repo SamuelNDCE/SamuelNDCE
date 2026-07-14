@@ -2,10 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/banner.svg" width="100%"/>
 
-<a href="https://github.com/SamuelNDCE">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Founder+of+Perpetual+Technologies;AI+%2B+Automation+Engineer;Building+NeuralVault;Shipping+Claude+Code+tooling+daily" alt="Typing SVG" />
-</a>
-
 [![Email](https://img.shields.io/badge/Email-samuelndce%40gmail.com-0A0D18?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:samuelndce@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20E-0A0D18?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/samuelndce/)
 [![Website](https://img.shields.io/badge/Website-perpetualtechnologies.co.uk-0A0D18?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://perpetualtechnologies.co.uk)
@@ -32,7 +28,7 @@
 
 <table>
 <tr>
-<td width="40%">🧠 <b><a href="https://github.com/SamuelNDCE/NeuralVault">NeuralVault</a></b><br/><sub>A live, animated neural map for your notes — points at any Obsidian-style vault and renders your knowledge base as firing neurons.</sub></td>
+<td width="40%"><h4>🧠 <a href="https://github.com/SamuelNDCE/NeuralVault">NeuralVault</a></h4><br/><br/>A live, animated neural map for your notes — points at any Obsidian-style vault and renders your knowledge base as firing neurons.</td>
 <td>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,7 +39,7 @@
 </td>
 </tr>
 <tr>
-<td width="40%">📚 <b><a href="https://github.com/SamuelNDCE/claude-super-skill-library">claude-super-skill-library</a></b><br/><sub>285 Claude Code Skills spanning software engineering, AI-engineering patterns, DevOps, and workflow automation across 13 categories. Includes <code>braindump</code>/<code>superbraindump</code> — a messy stream-of-consciousness idea in, a clean structured prompt out.</sub></td>
+<td width="40%"><h4>📚 <a href="https://github.com/SamuelNDCE/claude-super-skill-library">claude-super-skill-library</a></h4><br/><br/>285 Claude Code Skills spanning software engineering, AI-engineering patterns, DevOps, and workflow automation across 13 categories. Includes <code>braindump</code>/<code>superbraindump</code> — a messy stream-of-consciousness idea in, a clean structured prompt out.</td>
 <td>
 
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
@@ -52,7 +48,7 @@
 </td>
 </tr>
 <tr>
-<td width="40%">🤖 <b><a href="https://github.com/SamuelNDCE/discord-ops-bot">discord-ops-bot</a></b><br/><sub>A Discord ops hub — Shopify watchers, Meta ads monitoring, Netlify deploys, a shared team todo list, email support bridging.</sub></td>
+<td width="40%"><h4>🤖 <a href="https://github.com/SamuelNDCE/discord-ops-bot">discord-ops-bot</a></h4><br/><br/>A Discord ops hub — Shopify watchers, Meta ads monitoring, Netlify deploys, a shared team todo list, email support bridging.</td>
 <td>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -62,7 +58,7 @@
 </td>
 </tr>
 <tr>
-<td width="40%">🎙️ <b><a href="https://github.com/SamuelNDCE/cortex-assistant">cortex-assistant</a></b><br/><sub>A fully on-device voice assistant — wake word, whisper.cpp STT, Piper TTS, Claude API reasoning.</sub></td>
+<td width="40%"><h4>🎙️ <a href="https://github.com/SamuelNDCE/cortex-assistant">cortex-assistant</a></h4><br/><br/>A fully on-device voice assistant — wake word, whisper.cpp STT, Piper TTS, Claude API reasoning.</td>
 <td>
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -71,7 +67,7 @@
 </td>
 </tr>
 <tr>
-<td width="40%">🧰 <b><a href="https://github.com/SamuelNDCE/toolkit">toolkit</a></b><br/><sub>The parent collection tying all the Claude Code tooling repos above together.</sub></td>
+<td width="40%"><h4>🧰 <a href="https://github.com/SamuelNDCE/toolkit">toolkit</a></h4><br/><br/>The parent collection tying all the Claude Code tooling repos above together.</td>
 <td>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
