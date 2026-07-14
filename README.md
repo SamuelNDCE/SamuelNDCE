@@ -1,6 +1,6 @@
 # Samuel E
-[![Perpetual Technologies](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-Builder based in Southend-on-Sea, Essex. I run [PerpetualTechnologies](https://perpetualtechnologies.co.uk) — AI automation and managed IT for businesses.
+
+Builder based in Southend-on-Sea, Essex. I run [PerpetualTechnologies](https://perpetualtechnologies.co.uk)  AI automation and managed IT for businesses.
 
 ---
 
