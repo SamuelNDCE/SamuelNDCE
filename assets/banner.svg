@@ -1,9 +1,5 @@
 <svg width="1200" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="160" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#05060c"/>
-      <stop offset="100%" stop-color="#0a0d18"/>
-    </linearGradient>
     <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#0a0d18" stop-opacity="0"/>
       <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.9"/>
@@ -31,7 +27,7 @@
     }
   </style>
 
-  <rect width="1200" height="160" fill="url(#bg)"/>
+  <rect width="1200" height="160" fill="#0A0D18"/>
   <rect x="300" y="118" width="600" height="1" fill="url(#line)"/>
 
   <text x="600" y="78" text-anchor="middle" class="title" font-size="42">SAMUELNDCE</text>

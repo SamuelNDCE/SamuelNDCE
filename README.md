@@ -14,7 +14,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
 
 <div align="center">
 
@@ -26,7 +26,7 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
 
 ### 🚀 What I'm Building
 
@@ -35,10 +35,10 @@
 <td width="40%">🧠 <b><a href="https://github.com/SamuelNDCE/NeuralVault">NeuralVault</a></b><br/><sub>A live, animated neural map for your notes — points at any Obsidian-style vault and renders your knowledge base as firing neurons.</sub></td>
 <td>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
 
 </td>
 </tr>
@@ -46,8 +46,8 @@
 <td width="40%">📚 <b><a href="https://github.com/SamuelNDCE/claude-super-skill-library">claude-super-skill-library</a></b><br/><sub>285 Claude Code Skills spanning software engineering, AI-engineering patterns, DevOps, and workflow automation across 13 categories. Includes <code>braindump</code>/<code>superbraindump</code> — a messy stream-of-consciousness idea in, a clean structured prompt out.</sub></td>
 <td>
 
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 </td>
 </tr>
@@ -55,9 +55,9 @@
 <td width="40%">🤖 <b><a href="https://github.com/SamuelNDCE/discord-ops-bot">discord-ops-bot</a></b><br/><sub>A Discord ops hub — Shopify watchers, Meta ads monitoring, Netlify deploys, a shared team todo list, email support bridging.</sub></td>
 <td>
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
-![Shopify](https://img.shields.io/badge/-Shopify-95BF47?style=flat-square&logo=shopify&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white)
 
 </td>
 </tr>
@@ -65,8 +65,8 @@
 <td width="40%">🎙️ <b><a href="https://github.com/SamuelNDCE/cortex-assistant">cortex-assistant</a></b><br/><sub>A fully on-device voice assistant — wake word, whisper.cpp STT, Piper TTS, Claude API reasoning.</sub></td>
 <td>
 
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </td>
 </tr>
@@ -74,28 +74,23 @@
 <td width="40%">🧰 <b><a href="https://github.com/SamuelNDCE/toolkit">toolkit</a></b><br/><sub>The parent collection tying all the Claude Code tooling repos above together.</sub></td>
 <td>
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
 
 <div align="center">
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=SamuelNDCE&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=7C3AED&text_color=C9D1D9&ring_color=22D3EE" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelNDCE&theme=transparent&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelNDCE&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=C9D1D9" width="45%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=SamuelNDCE&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelNDCE&theme=transparent&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" width="60%" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
 
 <div align="center">
 
