@@ -26,8 +26,6 @@
 
 **⭐ Flagship**
 
-<img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/wib-neural.svg" height="36"/>
-
 > ### 🧠 [NeuralVault](https://github.com/SamuelNDCE/NeuralVault)
 >
 > A personal knowledge engine. Point it at any Obsidian-style vault of notes and it renders your entire knowledge base as a live, animated neural map: notes become neurons, links become synapses, and the graph fires and pulses as you write. I built it because static note-taking apps hide the connections between ideas, they just store text. NeuralVault makes those connections visible and explorable in real time. It's aimed at consultancies, research teams, agencies, and any knowledge-heavy business sitting on years of notes and docs that nobody can actually navigate.
