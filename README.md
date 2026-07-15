@@ -6,6 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-SamuelNDCE-0A0D18?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/samuelndce/)
 [![Website](https://img.shields.io/badge/Website-perpetualtechnologies.co.uk-0A0D18?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://perpetualtechnologies.co.uk)
 
+![Profile Views](https://komarev.com/ghpvc/?username=SamuelNDCE&color=22D3EE&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
@@ -28,7 +30,7 @@
 
 > ### 🧠 [NeuralVault](https://github.com/SamuelNDCE/NeuralVault)
 >
-> A local-first AI knowledge operating system that runs itself. Point it at any folder of Markdown notes and it becomes the memory, workspace, and audit trail for a fleet of local AI agents: a chat assistant that acts on your vault, autonomous agents that work a shared task board on their own schedule, a truth engine that surfaces contradictions without being asked, live business metrics, and multi-device sync. I built it because static note-taking apps hide the connections between ideas and can't act on them, they just store text. NeuralVault turns a note vault into working AI infrastructure. It's aimed at consultancies, research teams, agencies, and any knowledge-heavy business sitting on years of notes and docs that nobody can actually navigate.
+> A local-first AI knowledge operating system that runs itself. Point it at any folder of Markdown notes and it becomes the memory, workspace, and audit trail for a fleet of local AI agents: a chat assistant that acts on your vault, autonomous agents that work a shared task board on their own schedule, a truth engine that surfaces contradictions without being asked, live business metrics, and multi-device sync. I built it because static note-taking apps hide the connections between ideas and can't act on them, they just store text. NeuralVault turns a note vault into working AI infrastructure. It's aimed at consultancies, research teams, agencies, and any knowledge-heavy business sitting on years of notes and docs that nobody can actually navigate. [More info →](https://perpetualtechnologies.co.uk/neuralvault)
 >
 > ![Python](https://img.shields.io/badge/Python-0A0D18?style=for-the-badge&logo=python&logoColor=3776AB)
 > ![Rust](https://img.shields.io/badge/Rust-0A0D18?style=for-the-badge&logo=rust&logoColor=white)
