@@ -39,8 +39,8 @@
 
 **Also shipping**
 
-🔨 **[claude-skill-forge](https://github.com/SamuelNDCE/claude-skill-forge)** ![Claude](https://img.shields.io/badge/Claude-0A0D18?style=flat-square&logo=anthropic&logoColor=D97757) ![Markdown](https://img.shields.io/badge/Markdown-0A0D18?style=flat-square&logo=markdown&logoColor=white) <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/wib-typing.svg" height="20"/>
-The custom Claude Code tools I actually use day to day, written entirely from scratch. 19 skills grouped into installable bundles: verification discipline, repo and secret hygiene, Windows environment ops, project design safety, and more. Includes `braindump`, the prompt fixer, and its two sibling tiers.
+🔨 **[claude-workbench](https://github.com/SamuelNDCE/claude-workbench)** ![Claude](https://img.shields.io/badge/Claude-0A0D18?style=flat-square&logo=anthropic&logoColor=D97757) ![Markdown](https://img.shields.io/badge/Markdown-0A0D18?style=flat-square&logo=markdown&logoColor=white) <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/wib-typing.svg" height="20"/>
+What I actually use to build with Claude Code. 19 skills written entirely from scratch, grouped into installable bundles, plus my most-used skills, MCP servers, CLI tools, and conventions from the rest of my setup. Includes `braindump`, the prompt fixer, and its two sibling tiers.
 
 🤖 **[discord-ops-bot](https://github.com/SamuelNDCE/discord-ops-bot)** ![Node.js](https://img.shields.io/badge/Node.js-0A0D18?style=flat-square&logo=nodedotjs&logoColor=339933) ![Discord](https://img.shields.io/badge/Discord-0A0D18?style=flat-square&logo=discord&logoColor=5865F2) ![Shopify](https://img.shields.io/badge/Shopify-0A0D18?style=flat-square&logo=shopify&logoColor=95BF47) <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/wib-pulse-dot.svg" height="20"/>
 A Discord ops hub for running a small business day to day. Shopify order/stock watchers, Meta ads monitoring, Netlify deploy alerts, a shared team todo list, email support bridging.
