@@ -42,8 +42,6 @@
 🔨 **[claude-skill-forge](https://github.com/SamuelNDCE/claude-skill-forge)** ![Claude](https://img.shields.io/badge/Claude-0A0D18?style=flat-square&logo=anthropic&logoColor=D97757) ![Markdown](https://img.shields.io/badge/Markdown-0A0D18?style=flat-square&logo=markdown&logoColor=white) <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/wib-typing.svg" height="20"/>
 The custom Claude Code tools I actually use day to day, written entirely from scratch. 19 skills grouped into installable bundles: verification discipline, repo and secret hygiene, Windows environment ops, project design safety, and more. Includes `braindump`, the prompt fixer, and its two sibling tiers.
 
-📚 Also maintaining **[claude-super-skill-library](https://github.com/SamuelNDCE/claude-super-skill-library)**, a 287-skill curated reference collection for anyone using Claude Code.
-
 🤖 **[discord-ops-bot](https://github.com/SamuelNDCE/discord-ops-bot)** ![Node.js](https://img.shields.io/badge/Node.js-0A0D18?style=flat-square&logo=nodedotjs&logoColor=339933) ![Discord](https://img.shields.io/badge/Discord-0A0D18?style=flat-square&logo=discord&logoColor=5865F2) ![Shopify](https://img.shields.io/badge/Shopify-0A0D18?style=flat-square&logo=shopify&logoColor=95BF47) <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/wib-pulse-dot.svg" height="20"/>
 A Discord ops hub for running a small business day to day. Shopify order/stock watchers, Meta ads monitoring, Netlify deploy alerts, a shared team todo list, email support bridging.
 
@@ -52,6 +50,10 @@ A fully on-device voice assistant, no cloud speech APIs required. Wake-word dete
 
 🧰 **[toolkit](https://github.com/SamuelNDCE/toolkit)** ![TypeScript](https://img.shields.io/badge/TypeScript-0A0D18?style=flat-square&logo=typescript&logoColor=3178C6) <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/wib-gear.svg" height="20"/>
 The parent collection tying all the Claude Code tooling repos above together in one place.
+
+**Also maintaining**
+
+📚 **[claude-super-skill-library](https://github.com/SamuelNDCE/claude-super-skill-library)**: a 287-skill curated reference collection for anyone using Claude Code.
 
 <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
 
