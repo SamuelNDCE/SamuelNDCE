@@ -30,9 +30,8 @@
 
 > ### 🧠 [NeuralVault](https://github.com/SamuelNDCE/NeuralVault)
 >
-> A local-first AI knowledge operating system that runs itself. Point it at any folder of Markdown notes and it becomes the memory, workspace, and audit trail for a fleet of local AI agents: a chat assistant that acts on your vault, autonomous agents that work a shared task board on their own schedule, a truth engine that surfaces contradictions without being asked, live business metrics, and multi-device sync. I built it because static note-taking apps hide the connections between ideas and can't act on them, they just store text. NeuralVault turns a note vault into working AI infrastructure. It's aimed at consultancies, research teams, agencies, and any knowledge-heavy business sitting on years of notes and docs that nobody can actually navigate. [More info →](https://perpetualtechnologies.co.uk/neuralvault)
+> A local-first AI agent harness that scales from 1 to 100+ people. Agents pick up work from a shared board on their own schedule, act on your files, and wait for your approval before anything leaves the machine. Its memory is plain Markdown you can read, diff and back up, which is why it can be trusted with real work. I built it because note apps store text but cannot act on it, and cloud AI can act but wants your data. It's for developers who want a harness they can actually inspect, founders running everything themselves, and businesses that want automation on hardware they own rather than another dashboard to babysit. Free, Personal and Business editions. [More info →](https://perpetualtechnologies.co.uk/neuralvault)
 >
-> ![Python](https://img.shields.io/badge/Python-0A0D18?style=for-the-badge&logo=python&logoColor=3776AB)
 > ![Rust](https://img.shields.io/badge/Rust-0A0D18?style=for-the-badge&logo=rust&logoColor=white)
 > ![Svelte](https://img.shields.io/badge/Svelte-0A0D18?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 > ![Tauri](https://img.shields.io/badge/Tauri-0A0D18?style=for-the-badge&logo=tauri&logoColor=FFC131)
