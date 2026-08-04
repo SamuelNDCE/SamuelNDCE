@@ -53,7 +53,7 @@ The parent collection tying all the Claude Code tooling repos above together in 
 
 **Archived**
 
-📚 **[claude-super-skill-library](https://github.com/SamuelNDCE/claude-super-skill-library)** ![Archived](https://img.shields.io/badge/Archived-C9D1D9?style=flat-square&labelColor=0A0D18)
+📚 **[claude-super-skill-library](https://github.com/SamuelNDCE/claude-super-skill-library)** ![Archived](https://img.shields.io/badge/Archived-0A0D18?style=flat-square)
 A 287-skill curated reference collection for anyone using Claude Code. Frozen as-is, kept public as a reference rather than actively updated.
 
 <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
@@ -68,10 +68,10 @@ Registered UK limited company (Companies House #17330522), live production site 
 🖥️ **Homelab** ![TrueNAS](https://img.shields.io/badge/TrueNAS-0A0D18?style=flat-square&logo=truenas&logoColor=white)
 TrueNAS server running 11 self-hosted services (Immich, Nextcloud, Jellyfin, Home Assistant, Pi-hole, and more), on a ZFS mirror with GPU passthrough.
 
-🚀 **KERAUNOS** ![Concept work](https://img.shields.io/badge/Concept%20work-C9D1D9?style=flat-square&labelColor=0A0D18)
+🚀 **KERAUNOS** ![Concept work](https://img.shields.io/badge/Concept%20work-0A0D18?style=flat-square)
 An early-stage aerospace concept, explored on the side of everything else.
 
-🏆 **NeuralVault, Shenzhen Innovation Competition** ![UK round](https://img.shields.io/badge/UK%20round-Sept%202026-C9D1D9?style=flat-square&labelColor=0A0D18)
+🏆 **NeuralVault, Shenzhen Innovation Competition** ![UK round: Sept 2026](https://img.shields.io/badge/UK%20round%3A%20Sept%202026-0A0D18?style=flat-square)
 Entered into the 10th China (Shenzhen) Innovation and Entrepreneurship International Competition, London & UK Division, Digital and Fashion track.
 
 <div align="center">
