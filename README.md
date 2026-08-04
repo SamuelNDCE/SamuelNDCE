@@ -64,40 +64,17 @@ A 287-skill curated reference collection for anyone using Claude Code. Frozen as
 
 Not everything I build lives in a repo:
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 🏢 **[Perpetual Technologies](https://perpetualtechnologies.co.uk)** ![Vercel](https://img.shields.io/badge/Vercel-0A0D18?style=flat-square&logo=vercel&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-0A0D18?style=flat-square&logo=nextdotjs&logoColor=white)
-
 Registered UK limited company (Companies House #17330522), live production site with real infrastructure behind it, not just a landing page.
 
-</td>
-<td width="50%" valign="top">
-
 🖥️ **Homelab** ![TrueNAS](https://img.shields.io/badge/TrueNAS-0A0D18?style=flat-square&logo=truenas&logoColor=white)
-
 TrueNAS server running 11 self-hosted services (Immich, Nextcloud, Jellyfin, Home Assistant, Pi-hole, and more), on a ZFS mirror with GPU passthrough.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 🚀 **KERAUNOS** ![Concept work](https://img.shields.io/badge/Concept%20work-0A0D18?style=flat-square)
-
 An early-stage aerospace concept, explored on the side of everything else.
 
-</td>
-<td width="50%" valign="top">
-
 🏆 **NeuralVault, Shenzhen Innovation Competition** ![UK round: Sept 2026](https://img.shields.io/badge/UK%20round%3A%20Sept%202026-0A0D18?style=flat-square)
-
 Entered into the 10th China (Shenzhen) Innovation and Entrepreneurship International Competition, London & UK Division, Digital and Fashion track.
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 
