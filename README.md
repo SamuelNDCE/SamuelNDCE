@@ -24,13 +24,31 @@
 
 <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
 
+<div align="center">
+
+### 🔥 Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelNDCE&theme=transparent&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" width="60%" />
+
+![Rust](https://img.shields.io/badge/Rust-70k%2B%20lines-0A0D18?style=flat-square&logo=rust&logoColor=7C3AED)
+![Tests](https://img.shields.io/badge/Tests-1%2C387-0A0D18?style=flat-square&logo=checkmarx&logoColor=22D3EE)
+![Homelab](https://img.shields.io/badge/Self--hosted%20services-11-0A0D18?style=flat-square&logo=truenas&logoColor=7C3AED)
+
+<sub>Snapshot: August 2026, flagship NeuralVault codebase.</sub>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
+
 ### 🚀 What I'm Building
 
 **⭐ Flagship**
 
-### 🧠 [NeuralVault](https://github.com/SamuelNDCE/NeuralVault)
+### 🧠 NeuralVault
 
-A local-first AI agent harness that scales from 1 to 100+ people. Agents pick up work from a shared board on their own schedule, act on your files, and wait for your approval before anything leaves the machine. Its memory is plain Markdown you can read, diff and back up, which is why it can be trusted with real work. I built it because note apps store text but cannot act on it, and cloud AI can act but wants your data. It's for developers who want a harness they can actually inspect, founders running everything themselves, and businesses that want automation on hardware they own rather than another dashboard to babysit. Free, Personal and Business editions. [More info →](https://perpetualtechnologies.co.uk/neuralvault)
+A local-first AI agent harness that scales from 1 to 100+ people. Agents pick up work from a shared board on their own schedule, act on your files, and wait for your approval before anything leaves the machine. Its memory is plain Markdown you can read, diff and back up, which is why it can be trusted with real work. I built it because note apps store text but cannot act on it, and cloud AI can act but wants your data. 17 Rust crates, 1,387 tests, Tauri 2 + Svelte 5 desktop client plus an Android build in progress. Free, Personal and Business editions.
+
+**Private repo, active development** — [see it on the business site →](https://perpetualtechnologies.co.uk/neuralvault)
 
 ![Rust](https://img.shields.io/badge/Rust-0A0D18?style=for-the-badge&logo=rust&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-0A0D18?style=for-the-badge&logo=svelte&logoColor=FF3E00)
@@ -56,13 +74,14 @@ The parent collection tying all the Claude Code tooling repos above together in 
 
 <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
 
-<div align="center">
+### 🧭 Beyond code
 
-### 🔥 Streak
+Not everything I build lives in a repo:
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelNDCE&theme=transparent&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" width="60%" />
-
-</div>
+- 🏢 **[Perpetual Technologies](https://perpetualtechnologies.co.uk)** — registered UK company, AI automation and managed IT for SMEs.
+- 🛍️ **Snagworthy** — Shopify storefront with a full sourcing and ops layer behind it (freight checks, landed cost, catalog sync).
+- ✍️ **InkwellDesignStudio** — Etsy shop for AI-generated digital designs, built on a custom Etsy API v3 integration.
+- 🖥️ **Homelab** — TrueNAS server running 11 self-hosted services (Ollama, Immich, Nextcloud, Jellyfin, Home Assistant, and more), with GPU passthrough for local LLM inference.
 
 <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
 
@@ -70,7 +89,7 @@ The parent collection tying all the Claude Code tooling repos above together in 
 
 ### 🛠️ Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,python,cpp,c,rust,svelte,tauri,vite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,python,cpp,c,rust,svelte,tauri,vite,nextjs,docker&theme=dark)](https://skillicons.dev)
 
 ### ⚙️ Platforms
 
@@ -87,6 +106,16 @@ The parent collection tying all the Claude Code tooling repos above together in 
 ![Git](https://img.shields.io/badge/Git-0A0D18?style=for-the-badge&logo=git&logoColor=F05032)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-0A0D18?style=for-the-badge&logo=ffmpeg&logoColor=007808)
 ![Playwright](https://img.shields.io/badge/Playwright-0A0D18?style=for-the-badge&logo=playwright&logoColor=2EAD33)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
+
+<div align="center">
+
+### 🧠 How I work
+
+Test-heavy engineering (1,387 tests behind a solo-built Rust codebase), a verify-before-assert rule applied to my own claims, and a written log of every mistake worth not repeating. I'd rather ship something small and true than something big and unverified.
 
 </div>
 
