@@ -32,7 +32,7 @@
 
 A local-first AI agent harness that scales from 1 to 100+ people. Agents pick up work from a shared board on their own schedule, act on your files, and wait for your approval before anything leaves the machine. Its memory is plain Markdown you can read, diff and back up, which is why it can be trusted with real work. I built it because note apps store text but cannot act on it, and cloud AI can act but wants your data. 17 Rust crates, 1,387 tests, Tauri 2 + Svelte 5 desktop client plus an Android build in progress. Free, Personal and Business editions.
 
-**Private repo, active development** — [see it on the business site →](https://perpetualtechnologies.co.uk/neuralvault)
+**Private repo, active development** - [see it on the business site →](https://perpetualtechnologies.co.uk/neuralvault)
 
 ![Rust](https://img.shields.io/badge/Rust-0A0D18?style=for-the-badge&logo=rust&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-0A0D18?style=for-the-badge&logo=svelte&logoColor=FF3E00)
@@ -62,8 +62,8 @@ The parent collection tying all the Claude Code tooling repos above together in 
 
 Not everything I build lives in a repo:
 
-- 🏢 **[Perpetual Technologies](https://perpetualtechnologies.co.uk)** — registered UK limited company, live production site on Vercel with real infrastructure behind it, not just a landing page.
-- 🖥️ **Homelab** — TrueNAS server running 11 self-hosted services (Immich, Nextcloud, Jellyfin, Home Assistant, Pi-hole, and more), on a ZFS mirror with GPU passthrough.
+- 🏢 **[Perpetual Technologies](https://perpetualtechnologies.co.uk)** - registered UK limited company, live production site on Vercel with real infrastructure behind it, not just a landing page.
+- 🖥️ **Homelab** - TrueNAS server running 11 self-hosted services (Immich, Nextcloud, Jellyfin, Home Assistant, Pi-hole, and more), on a ZFS mirror with GPU passthrough.
 
 <div align="center">
 
@@ -109,7 +109,7 @@ Not everything I build lives in a repo:
 
 <div align="center">
 
-### 🧠 How I work
+### 🎯 How I work
 
 Test-heavy engineering on a solo-built codebase, a verify-before-assert rule applied to my own claims, and a written log of every mistake worth not repeating. I'd rather ship something small and true than something big and unverified.
 
