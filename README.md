@@ -24,22 +24,6 @@
 
 <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
 
-<div align="center">
-
-### 🔥 Streak
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelNDCE&theme=transparent&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" width="60%" />
-
-![Rust](https://img.shields.io/badge/Rust-70k%2B%20lines-0A0D18?style=flat-square&logo=rust&logoColor=7C3AED)
-![Tests](https://img.shields.io/badge/Tests-1%2C387-0A0D18?style=flat-square&logo=checkmarx&logoColor=22D3EE)
-![Homelab](https://img.shields.io/badge/Self--hosted%20services-11-0A0D18?style=flat-square&logo=truenas&logoColor=7C3AED)
-
-<sub>Snapshot: August 2026, flagship NeuralVault codebase.</sub>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
-
 ### 🚀 What I'm Building
 
 **⭐ Flagship**
@@ -78,10 +62,22 @@ The parent collection tying all the Claude Code tooling repos above together in 
 
 Not everything I build lives in a repo:
 
-- 🏢 **[Perpetual Technologies](https://perpetualtechnologies.co.uk)** — registered UK company, AI automation and managed IT for SMEs.
-- 🛍️ **Snagworthy** — Shopify storefront with a full sourcing and ops layer behind it (freight checks, landed cost, catalog sync).
-- ✍️ **InkwellDesignStudio** — Etsy shop for AI-generated digital designs, built on a custom Etsy API v3 integration.
-- 🖥️ **Homelab** — TrueNAS server running 11 self-hosted services (Ollama, Immich, Nextcloud, Jellyfin, Home Assistant, and more), with GPU passthrough for local LLM inference.
+- 🏢 **[Perpetual Technologies](https://perpetualtechnologies.co.uk)** — registered UK limited company, live production site on Vercel with real infrastructure behind it, not just a landing page.
+- 🖥️ **Homelab** — TrueNAS server running 11 self-hosted services (Immich, Nextcloud, Jellyfin, Home Assistant, Pi-hole, and more), on a ZFS mirror with GPU passthrough.
+
+<div align="center">
+
+### 🔥 Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelNDCE&theme=transparent&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" width="60%" />
+
+![Rust](https://img.shields.io/badge/Rust-70k%2B%20lines-0A0D18?style=flat-square&logo=rust&logoColor=7C3AED)
+![Tests](https://img.shields.io/badge/Tests-1%2C387-0A0D18?style=flat-square&logo=checkmarx&logoColor=22D3EE)
+![Homelab](https://img.shields.io/badge/Self--hosted%20services-11-0A0D18?style=flat-square&logo=truenas&logoColor=7C3AED)
+
+<sub>Snapshot, August 2026.</sub>
+
+</div>
 
 <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
 
@@ -115,7 +111,7 @@ Not everything I build lives in a repo:
 
 ### 🧠 How I work
 
-Test-heavy engineering (1,387 tests behind a solo-built Rust codebase), a verify-before-assert rule applied to my own claims, and a written log of every mistake worth not repeating. I'd rather ship something small and true than something big and unverified.
+Test-heavy engineering on a solo-built codebase, a verify-before-assert rule applied to my own claims, and a written log of every mistake worth not repeating. I'd rather ship something small and true than something big and unverified.
 
 </div>
 
