@@ -20,6 +20,8 @@
 
 *Outside of that: an engineer who builds because he loves it, not just because it pays.*
 
+🟢 **Currently:** shipping NeuralVault, prepping for the UK round of the Shenzhen Innovation Competition (September 2026).
+
 </div>
 
 <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
@@ -62,29 +64,63 @@ A 287-skill curated reference collection for anyone using Claude Code. Frozen as
 
 Not everything I build lives in a repo:
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 🏢 **[Perpetual Technologies](https://perpetualtechnologies.co.uk)** ![Vercel](https://img.shields.io/badge/Vercel-0A0D18?style=flat-square&logo=vercel&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-0A0D18?style=flat-square&logo=nextdotjs&logoColor=white)
+
 Registered UK limited company (Companies House #17330522), live production site with real infrastructure behind it, not just a landing page.
 
+</td>
+<td width="50%" valign="top">
+
 🖥️ **Homelab** ![TrueNAS](https://img.shields.io/badge/TrueNAS-0A0D18?style=flat-square&logo=truenas&logoColor=white)
+
 TrueNAS server running 11 self-hosted services (Immich, Nextcloud, Jellyfin, Home Assistant, Pi-hole, and more), on a ZFS mirror with GPU passthrough.
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 🚀 **KERAUNOS** ![Concept work](https://img.shields.io/badge/Concept%20work-0A0D18?style=flat-square)
+
 An early-stage aerospace concept, explored on the side of everything else.
 
+</td>
+<td width="50%" valign="top">
+
 🏆 **NeuralVault, Shenzhen Innovation Competition** ![UK round: Sept 2026](https://img.shields.io/badge/UK%20round%3A%20Sept%202026-0A0D18?style=flat-square)
+
 Entered into the 10th China (Shenzhen) Innovation and Entrepreneurship International Competition, London & UK Division, Digital and Fashion track.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-### 🔥 Streak
+### 🔥 Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelNDCE&theme=transparent&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" width="60%" />
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelNDCE&theme=transparent&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" width="100%" />
+
+</td>
+<td width="50%" align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/output/github-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/output/github-snake.svg" width="100%" />
 </picture>
+
+</td>
+</tr>
+</table>
 
 </div>
 
