@@ -18,8 +18,6 @@
 
 **AI automation & managed IT for businesses still doing things the slow way.**
 
-*Outside of that: an engineer who builds because he loves it, not just because it pays.*
-
 🟢 **Currently:** shipping NeuralVault, prepping for the UK round of the Shenzhen Innovation Competition (September 2026).
 
 </div>
