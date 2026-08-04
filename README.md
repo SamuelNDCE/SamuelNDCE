@@ -54,7 +54,8 @@ The parent collection tying all the Claude Code tooling repos above together in 
 
 **Also maintaining**
 
-📚 **[claude-super-skill-library](https://github.com/SamuelNDCE/claude-super-skill-library)**: a 287-skill curated reference collection for anyone using Claude Code.
+📚 **[claude-super-skill-library](https://github.com/SamuelNDCE/claude-super-skill-library)**
+A 287-skill curated reference collection for anyone using Claude Code.
 
 <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
 
@@ -70,12 +71,6 @@ Not everything I build lives in a repo:
 ### 🔥 Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelNDCE&theme=transparent&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" width="60%" />
-
-![Rust](https://img.shields.io/badge/Rust-70k%2B%20lines-0A0D18?style=flat-square&logo=rust&logoColor=7C3AED)
-![Tests](https://img.shields.io/badge/Tests-1%2C387-0A0D18?style=flat-square&logo=checkmarx&logoColor=22D3EE)
-![Homelab](https://img.shields.io/badge/Self--hosted%20services-11-0A0D18?style=flat-square&logo=truenas&logoColor=7C3AED)
-
-<sub>Snapshot, August 2026.</sub>
 
 </div>
 
