@@ -26,6 +26,8 @@
 
 ### 🚀 What I'm Building
 
+Everything below is live, not a portfolio placeholder.
+
 **⭐ Flagship**
 
 ### 🧠 NeuralVault
@@ -66,8 +68,8 @@ Registered UK limited company (Companies House #17330522), live production site 
 🖥️ **Homelab** ![TrueNAS](https://img.shields.io/badge/TrueNAS-0A0D18?style=flat-square&logo=truenas&logoColor=white)
 TrueNAS server running 11 self-hosted services (Immich, Nextcloud, Jellyfin, Home Assistant, Pi-hole, and more), on a ZFS mirror with GPU passthrough.
 
-🚀 **KERAUNOS** ![Whitepaper](https://img.shields.io/badge/42--page%20whitepaper-C9D1D9?style=flat-square&labelColor=0A0D18)
-A Maglev Space Launch System concept: ground infrastructure replacing a rocket's first stage. The whitepaper documents its own failure modes as rigorously as its architecture, down to the piers that would need to beat a world record to work.
+🚀 **KERAUNOS** ![Concept work](https://img.shields.io/badge/Concept%20work-C9D1D9?style=flat-square&labelColor=0A0D18)
+An early-stage aerospace concept, explored on the side of everything else.
 
 🏆 **NeuralVault, Shenzhen Innovation Competition** ![UK round](https://img.shields.io/badge/UK%20round-Sept%202026-C9D1D9?style=flat-square&labelColor=0A0D18)
 Entered into the 10th China (Shenzhen) Innovation and Entrepreneurship International Competition, London & UK Division, Digital and Fashion track.
@@ -118,7 +120,7 @@ Entered into the 10th China (Shenzhen) Innovation and Entrepreneurship Internati
 
 ### 🎯 How I work
 
-Test-heavy engineering on a solo-built codebase, a verify-before-assert rule applied to my own claims, and a written log of every mistake worth not repeating. I'd rather ship something small and true than something big and unverified.
+Test-heavy engineering on a solo-built codebase, a verify-before-assert rule applied to my own claims, and a written log of every mistake worth not repeating, kept in the same plain-Markdown format NeuralVault itself is built on. I'd rather ship something small and true than something big and unverified.
 
 </div>
 
