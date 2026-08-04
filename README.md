@@ -101,26 +101,15 @@ Entered into the 10th China (Shenzhen) Innovation and Entrepreneurship Internati
 
 <div align="center">
 
-### 🔥 Activity
+### 🔥 Streak
 
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelNDCE&theme=transparent&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" width="100%" />
-
-</td>
-<td width="50%" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelNDCE&theme=transparent&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" width="60%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/output/github-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/output/github-snake.svg" width="100%" />
 </picture>
-
-</td>
-</tr>
-</table>
 
 </div>
 
