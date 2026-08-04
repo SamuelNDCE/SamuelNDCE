@@ -63,8 +63,11 @@ A 287-skill curated reference collection for anyone using Claude Code.
 
 Not everything I build lives in a repo:
 
-- 🏢 **[Perpetual Technologies](https://perpetualtechnologies.co.uk)** - registered UK limited company, live production site on Vercel with real infrastructure behind it, not just a landing page.
-- 🖥️ **Homelab** - TrueNAS server running 11 self-hosted services (Immich, Nextcloud, Jellyfin, Home Assistant, Pi-hole, and more), on a ZFS mirror with GPU passthrough.
+🏢 **[Perpetual Technologies](https://perpetualtechnologies.co.uk)** ![Vercel](https://img.shields.io/badge/Vercel-0A0D18?style=flat-square&logo=vercel&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-0A0D18?style=flat-square&logo=nextdotjs&logoColor=white)
+Registered UK limited company, live production site with real infrastructure behind it, not just a landing page.
+
+🖥️ **Homelab** ![TrueNAS](https://img.shields.io/badge/TrueNAS-0A0D18?style=flat-square&logo=truenas&logoColor=white)
+TrueNAS server running 11 self-hosted services (Immich, Nextcloud, Jellyfin, Home Assistant, Pi-hole, and more), on a ZFS mirror with GPU passthrough.
 
 <div align="center">
 
