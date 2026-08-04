@@ -40,22 +40,19 @@ A local-first AI agent harness that scales from 1 to 100+ people. Agents pick up
 
 **Also shipping**
 
-🔨 **[claude-workbench](https://github.com/SamuelNDCE/claude-workbench)** ![Claude](https://img.shields.io/badge/Claude-0A0D18?style=flat-square&logo=anthropic&logoColor=D97757) ![Markdown](https://img.shields.io/badge/Markdown-0A0D18?style=flat-square&logo=markdown&logoColor=white) <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/wib-typing.svg" height="20"/>
+🔨 **[claude-workbench](https://github.com/SamuelNDCE/claude-workbench)** ![Claude](https://img.shields.io/badge/Claude-0A0D18?style=flat-square&logo=anthropic&logoColor=D97757) ![Markdown](https://img.shields.io/badge/Markdown-0A0D18?style=flat-square&logo=markdown&logoColor=white)
 What I actually use to build with Claude Code. 19 skills written entirely from scratch, grouped into installable bundles, plus my most-used skills, MCP servers, CLI tools, and conventions from the rest of my setup. Includes `braindump`, the prompt fixer, and its two sibling tiers.
 
-🤖 **[discord-ops-bot](https://github.com/SamuelNDCE/discord-ops-bot)** ![Node.js](https://img.shields.io/badge/Node.js-0A0D18?style=flat-square&logo=nodedotjs&logoColor=339933) ![Discord](https://img.shields.io/badge/Discord-0A0D18?style=flat-square&logo=discord&logoColor=5865F2) ![Shopify](https://img.shields.io/badge/Shopify-0A0D18?style=flat-square&logo=shopify&logoColor=95BF47) <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/wib-pulse-dot.svg" height="20"/>
-A Discord ops hub for running a small business day to day. Shopify order/stock watchers, Meta ads monitoring, Netlify deploy alerts, a shared team todo list, email support bridging.
-
-🎙️ **[cortex-assistant](https://github.com/SamuelNDCE/cortex-assistant)** ![Rust](https://img.shields.io/badge/Rust-0A0D18?style=flat-square&logo=rust&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-0A0D18?style=flat-square&logo=anthropic&logoColor=D97757) <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/wib-waveform.svg" height="20"/>
+🎙️ **[cortex-assistant](https://github.com/SamuelNDCE/cortex-assistant)** ![Rust](https://img.shields.io/badge/Rust-0A0D18?style=flat-square&logo=rust&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-0A0D18?style=flat-square&logo=anthropic&logoColor=D97757)
 A fully on-device voice assistant, no cloud speech APIs required. Wake-word detection, whisper.cpp for STT, Piper for TTS, Claude for reasoning.
 
-🧰 **[toolkit](https://github.com/SamuelNDCE/toolkit)** ![TypeScript](https://img.shields.io/badge/TypeScript-0A0D18?style=flat-square&logo=typescript&logoColor=3178C6) <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/wib-gear.svg" height="20"/>
+🧰 **[toolkit](https://github.com/SamuelNDCE/toolkit)** ![TypeScript](https://img.shields.io/badge/TypeScript-0A0D18?style=flat-square&logo=typescript&logoColor=3178C6)
 The parent collection tying all the Claude Code tooling repos above together in one place.
 
-**Also maintaining**
+**Archived**
 
-📚 **[claude-super-skill-library](https://github.com/SamuelNDCE/claude-super-skill-library)**
-A 287-skill curated reference collection for anyone using Claude Code.
+📚 **[claude-super-skill-library](https://github.com/SamuelNDCE/claude-super-skill-library)** ![Archived](https://img.shields.io/badge/Archived-C9D1D9?style=flat-square&labelColor=0A0D18)
+A 287-skill curated reference collection for anyone using Claude Code. Frozen as-is, kept public as a reference rather than actively updated.
 
 <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
 
@@ -64,10 +61,16 @@ A 287-skill curated reference collection for anyone using Claude Code.
 Not everything I build lives in a repo:
 
 🏢 **[Perpetual Technologies](https://perpetualtechnologies.co.uk)** ![Vercel](https://img.shields.io/badge/Vercel-0A0D18?style=flat-square&logo=vercel&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-0A0D18?style=flat-square&logo=nextdotjs&logoColor=white)
-Registered UK limited company, live production site with real infrastructure behind it, not just a landing page.
+Registered UK limited company (Companies House #17330522), live production site with real infrastructure behind it, not just a landing page.
 
 🖥️ **Homelab** ![TrueNAS](https://img.shields.io/badge/TrueNAS-0A0D18?style=flat-square&logo=truenas&logoColor=white)
 TrueNAS server running 11 self-hosted services (Immich, Nextcloud, Jellyfin, Home Assistant, Pi-hole, and more), on a ZFS mirror with GPU passthrough.
+
+🚀 **KERAUNOS** ![Whitepaper](https://img.shields.io/badge/42--page%20whitepaper-C9D1D9?style=flat-square&labelColor=0A0D18)
+A Maglev Space Launch System concept: ground infrastructure replacing a rocket's first stage. The whitepaper documents its own failure modes as rigorously as its architecture, down to the piers that would need to beat a world record to work.
+
+🏆 **NeuralVault, Shenzhen Innovation Competition** ![UK round](https://img.shields.io/badge/UK%20round-Sept%202026-C9D1D9?style=flat-square&labelColor=0A0D18)
+Entered into the 10th China (Shenzhen) Innovation and Entrepreneurship International Competition, London & UK Division, Digital and Fashion track.
 
 <div align="center">
 
