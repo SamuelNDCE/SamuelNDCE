@@ -2,7 +2,9 @@ name: Update streak stats
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    # Hourly, at :37 rather than :00. GitHub documents the start of every hour
+    # as a high-load window where scheduled jobs are delayed or dropped.
+    - cron: "37 * * * *"
   push:
     paths:
       - ".github/workflows/streak-stats.yml"
