@@ -78,7 +78,7 @@ Entered into the 10th China (Shenzhen) Innovation and Entrepreneurship Internati
 
 ### 🔥 Streak
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelNDCE&theme=transparent&hide_border=true&background=00000000&ring=22D3EE&fire=7C3AED&currStreakLabel=22D3EE&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" width="60%" />
+<img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/profile/streak.svg" alt="GitHub streak stats" width="60%" />
 
 </div>
 
