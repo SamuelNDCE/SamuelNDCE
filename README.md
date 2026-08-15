@@ -88,7 +88,7 @@ Entered into the 10th China (Shenzhen) Innovation and Entrepreneurship Internati
 
 ### 🛠️ Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,python,cpp,c,rust,svelte,tauri,vite,nextjs,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,python,cpp,c,rust,bash,powershell,svelte,tauri,vite,nextjs,docker&theme=dark)](https://skillicons.dev)
 
 ### ⚙️ Platforms
 
@@ -96,8 +96,8 @@ Entered into the 10th China (Shenzhen) Innovation and Entrepreneurship Internati
 ![Discord](https://img.shields.io/badge/Discord-0A0D18?style=for-the-badge&logo=discord&logoColor=5865F2)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0D18?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Vercel](https://img.shields.io/badge/Vercel-0A0D18?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-0A0D18?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Supabase](https://img.shields.io/badge/Supabase-0A0D18?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Obsidian](https://img.shields.io/badge/Obsidian-0A0D18?style=for-the-badge&logo=obsidian&logoColor=8B5CF6)
 
 ### 🧠 AI & Tooling
 
