@@ -14,7 +14,7 @@
 
 <div align="center">
 
-### 🏢 Founder, [Perpetual Technologies](https://perpetualtechnologies.co.uk)
+### 🏢 Founding Director, [Perpetual Technologies](https://perpetualtechnologies.co.uk)
 
 **AI automation & managed IT for businesses still doing things the slow way.**
 
