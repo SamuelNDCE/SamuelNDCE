@@ -48,6 +48,9 @@ What I actually use to build with Claude Code. 19 skills written entirely from s
 🩺 **[lazarus-toolkit](https://github.com/SamuelNDCE/lazarus-toolkit)** ![PowerShell](https://img.shields.io/badge/PowerShell-0A0D18?style=flat-square&logo=powershell&logoColor=5391FE) ![Apache 2.0](https://img.shields.io/badge/Apache_2.0-0A0D18?style=flat-square)
 A portable Windows repair kit that installs nothing on the machine you're fixing. The flagship is Health Report and Repair: a one-line install, a ninety-second verdict on whether a machine is worth keeping, built entirely from data Windows already tracks, with zero network calls, checked by grep rather than promised. Around it sits the full USB stick: 30 utilities and 5 boot ISOs behind a launcher that finds new tools on its own and pulls their icons straight out of the binary. Every slow step is watched: a stall watchdog reads whether DISM's log is still moving and says so when it is not, which is how it caught a real one-hour hang.
 
+🎛️ **[Patchboard](https://github.com/SamuelNDCE/Patchboard)** ![C#](https://img.shields.io/badge/C%23-0A0D18?style=flat-square&logo=csharp&logoColor=239120) ![.NET](https://img.shields.io/badge/.NET-0A0D18?style=flat-square&logo=dotnet&logoColor=512BD4) ![MIT](https://img.shields.io/badge/MIT-0A0D18?style=flat-square)
+A personal fun little project, built because I couldn't find any good free soundboard apps. A Windows soundboard that plays one sound to several audio outputs at once, so a clip lands in your headphones and Discord in the same press. Lightweight, single self-contained executable, fully open source.
+
 <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
 
 ### 🧭 Beyond code
