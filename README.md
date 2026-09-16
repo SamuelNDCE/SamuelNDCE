@@ -66,9 +66,6 @@ TrueNAS server running 11 self-hosted services (Immich, Nextcloud, Jellyfin, Hom
 🚀 **KERAUNOS** ![Concept work](https://img.shields.io/badge/Concept%20work-0A0D18?style=flat-square)
 An early-stage aerospace concept, explored on the side of everything else.
 
-🏆 **NeuralVault, Shenzhen Innovation Competition** ![UK round: Sept 2026](https://img.shields.io/badge/UK%20round%3A%20Sept%202026-0A0D18?style=flat-square)
-Entered into the 10th China (Shenzhen) Innovation and Entrepreneurship International Competition, London & UK Division, Digital and Fashion track.
-
 <div align="center">
 
 ### 🔥 Streak
