@@ -18,7 +18,7 @@
 
 **AI automation & managed IT for businesses still doing things the slow way.**
 
-🟢 **Currently:** shipping NeuralVault, prepping for the UK round of the Shenzhen Innovation Competition (September 2026).
+🟢 **Currently:** shipping NeuralVault
 
 </div>
 
