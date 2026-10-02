@@ -32,13 +32,13 @@ Everything below is live, not a portfolio placeholder.
 
 ### 🧠 NeuralVault
 
-A local-first AI agent harness that scales from 1 to 100+ people. Agents pick up work from a shared board on their own schedule, act on your files, and wait for your approval before anything leaves the machine. Its memory is plain Markdown you can read, diff and back up, which is why it can be trusted with real work. I built it because note apps store text but cannot act on it, and cloud AI can act but wants your data. 17 Rust crates, 1,387 tests, Tauri 2 + Svelte 5 desktop client plus an Android build in progress. Free, Personal and Business editions.
+A local-first AI agent harness that scales from 1 to 100+ people. Agents pick up work from a shared board on their own schedule, act on your files, and wait for your approval before anything leaves the machine. Its memory is plain Markdown you can read, diff and back up, which is why it can be trusted with real work. I built it because note apps store text but cannot act on it, and cloud AI can act but wants your data. A Rust engine under an Electron + Svelte 5 desktop app, plus an Android app in progress. Free, Personal and Business editions.
 
 **Private repo, active development** - [see it on the business site →](https://perpetualtechnologies.co.uk/neuralvault)
 
 ![Rust](https://img.shields.io/badge/Rust-0A0D18?style=for-the-badge&logo=rust&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-0A0D18?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![Tauri](https://img.shields.io/badge/Tauri-0A0D18?style=for-the-badge&logo=tauri&logoColor=FFC131)
+![Electron](https://img.shields.io/badge/Electron-0A0D18?style=for-the-badge&logo=electron&logoColor=47848F)
 
 **Also shipping**
 
