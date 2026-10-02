@@ -37,7 +37,7 @@ A local-first AI agent harness that scales from 1 to 100+ people. Agents pick up
 **Private repo, active development** - [see it on the business site →](https://perpetualtechnologies.co.uk/neuralvault)
 
 ![Rust](https://img.shields.io/badge/Rust-0A0D18?style=for-the-badge&logo=rust&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-0A0D18?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![React](https://img.shields.io/badge/React-0A0D18?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/Electron-0A0D18?style=for-the-badge&logo=electron&logoColor=47848F)
 
 **Also shipping**
