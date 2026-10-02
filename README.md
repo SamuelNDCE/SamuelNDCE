@@ -32,7 +32,7 @@ Everything below is live, not a portfolio placeholder.
 
 ### 🧠 NeuralVault
 
-A local-first AI agent harness that scales from 1 to 100+ people. Agents pick up work from a shared board on their own schedule, act on your files, and wait for your approval before anything leaves the machine. Its memory is plain Markdown you can read, diff and back up, which is why it can be trusted with real work. I built it because note apps store text but cannot act on it, and cloud AI can act but wants your data. A Rust engine under an Electron + Svelte 5 desktop app, plus an Android app in progress. Free, Personal and Business editions.
+A local-first AI agent harness that scales from 1 to 100+ people. Agents pick up work from a shared board on their own schedule, act on your files, and wait for your approval before anything leaves the machine. Its memory is plain Markdown you can read, diff and back up, which is why it can be trusted with real work. I built it because note apps store text but cannot act on it, and cloud AI can act but wants your data. A Rust engine under an Electron + React desktop app, plus an Android app in progress. Free, Personal and Business editions.
 
 **Private repo, active development** - [see it on the business site →](https://perpetualtechnologies.co.uk/neuralvault)
 
