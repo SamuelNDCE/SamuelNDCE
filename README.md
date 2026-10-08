@@ -42,6 +42,9 @@ A local-first AI agent harness that scales from 1 to 100+ people. Agents pick up
 
 **Also shipping**
 
+📝 **[Plume](https://github.com/SamuelNDCE/plume)** ![Electron](https://img.shields.io/badge/Electron-0A0D18?style=flat-square&logo=electron&logoColor=47848F) ![Markdown](https://img.shields.io/badge/Markdown-0A0D18?style=flat-square&logo=markdown&logoColor=white) ![MIT](https://img.shields.io/badge/MIT-0A0D18?style=flat-square)
+A free, open-source Markdown editor and viewer, built because I could not find a good free one that looked and felt right. Rich editing with a one-key switch to source, Mermaid diagrams and charts, eight very different themes, an outline rail, a plugin API and a theme format anyone can write for, and one-click updates. No account, no telemetry. [Download it here](https://github.com/SamuelNDCE/plume/releases/latest).
+
 🔨 **[claude-workbench](https://github.com/SamuelNDCE/claude-workbench)** ![Claude](https://img.shields.io/badge/Claude-0A0D18?style=flat-square&logo=anthropic&logoColor=D97757) ![Markdown](https://img.shields.io/badge/Markdown-0A0D18?style=flat-square&logo=markdown&logoColor=white)
 What I actually use to build with Claude Code. 19 skills written entirely from scratch, grouped into installable bundles, plus my most-used skills, MCP servers, CLI tools, and conventions from the rest of my setup. Includes `braindump`, the prompt fixer, and its two sibling tiers.
 
