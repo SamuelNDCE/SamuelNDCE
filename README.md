@@ -20,6 +20,10 @@
 
 🟢 **Currently:** shipping NeuralVault
 
+💬 **Community:** I take part in the [Perpetual Technologies Discord](https://discord.gg/x7yXE3MReT). Come and say hello.
+
+🎓 **Coming next:** an AI proficiency course for Perpetual Technologies, so every person on the team can work with AI well.
+
 </div>
 
 <img src="https://raw.githubusercontent.com/SamuelNDCE/SamuelNDCE/main/assets/divider.svg" width="100%" height="6"/>
@@ -32,7 +36,7 @@ Everything below is live, not a portfolio placeholder.
 
 ### 🧠 NeuralVault
 
-A local-first AI agent harness that scales from one person to a team of 100+. I built it from the ground up to be part of how people actually work: agents pick up work from a shared board on their own schedule, act on your files, and wait for your approval before anything leaves the machine. Its memory is plain Markdown you can read, diff and back up, so it can be trusted with real work. Note apps store text but cannot act on it, and cloud AI can act but wants your data, so NeuralVault does both on your own machine. A Rust engine under an Electron and React desktop app, plus an Android app in progress. Free, Personal and Business editions.
+A local-first AI harness built to be part of how you work, for personal projects and for business. Its memory is a revolutionary system, and it is local-first too: plain Markdown on your own machine that you can read, diff and back up, and that stays yours. It is built to be genuinely useful every day, not a demo.
 
 **Private repo, active development** - [see it on the business site →](https://perpetualtechnologies.co.uk/neuralvault)
 
